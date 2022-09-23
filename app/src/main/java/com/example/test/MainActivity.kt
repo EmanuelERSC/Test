@@ -13,5 +13,3 @@ class MainActivity : AppCompatActivity() {
         //Mudança teste...
         //MUdança 2
         //Mudança 3
-
-        //Branchh
